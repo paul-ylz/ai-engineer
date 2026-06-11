@@ -64,6 +64,8 @@ Start coding immediately. RAG is the dominant enterprise pattern — learn it ha
 
 Avoid spending excessive time on orchestration frameworks before understanding the underlying APIs. Learn LangChain/LangGraph *after* you can build the same thing without them.
 
+> **[Detailed project guide for Phase 2 →](phase-2-projects.md)** — Full tutorial-style breakdowns with architecture diagrams, step-by-step implementation, tech stacks, pitfalls, and evaluation criteria for all 5 projects.
+
 ---
 
 ## Phase 3 (3–6 weeks): AI Systems Engineering
@@ -126,6 +128,8 @@ Don't start here — but this is where the field is heading.
 - Terraform assistant with plan review
 - Runbook execution agent with approval gates
 - Multi-agent system for code review or deployment
+
+> **[Detailed project guide for Phase 4 →](phase-4-projects.md)** — Full tutorial-style breakdowns with architecture diagrams, step-by-step implementation, tech stacks, pitfalls, and evaluation criteria for all 5 projects.
 
 ---
 
